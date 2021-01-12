@@ -12,7 +12,7 @@
     "date-fns-tz": "1.0.10",
     "dayjs": "1.10.3",
     "luxon": "1.25.0",
-    "moment-timezone": "0.5.31",
+    "moment-timezone": "0.5.32",
     "relative-time-format": "1.0.5"
   },
   "devDependencies": {

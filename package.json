@@ -13,7 +13,7 @@
     "dayjs": "1.10.6",
     "luxon": "2.4.0",
     "moment-timezone": "0.5.33",
-    "relative-time-format": "1.0.5"
+    "relative-time-format": "1.0.8"
   },
   "devDependencies": {
     "@babel/core": "7.17.10",
